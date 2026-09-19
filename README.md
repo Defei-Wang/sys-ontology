@@ -1,3 +1,5 @@
+[English](./README.md) | [简体中文](./README_ZH.md)
+
 # Matter, Dimensionality, Complexity, and Consciousness: A Multiscale Systemic Treatise on Physical Reality and Living Systems
 
 ---
